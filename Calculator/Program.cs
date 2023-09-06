@@ -4,9 +4,9 @@ Console.WriteLine("Hello, World!");
 
 int sayi1,sayi2;
 
-Console.WriteLine("Sayi bir gir : ");
+Console.WriteLine("Ilk sayiyi gir : ");
 sayi1=Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Sayi iki gir : ");
+Console.WriteLine("Ikıncı sayiyi gir : ");
 sayi2=Convert.ToInt32(Console.ReadLine());
 
 int toplam;
